@@ -27,6 +27,8 @@ The analysis focuses on two core business problems:
 
 This dataset contains event-level user interaction data from an online electronics store.
 
+Large raw and cleaned dataset files are not tracked in this repository due to GitHub file size limits. The raw dataset file `data/events.csv` and the cleaned full dataset file `outputs/events_cleaned.csv` are excluded. The repository includes notebooks, processed dashboard-ready outputs, screenshots, and Tableau assets needed to understand the analysis workflow.
+
 ### Main fields used
 - `event_time`
 - `event_type`
@@ -157,10 +159,9 @@ Includes:
 
 Example:
 
-```md
 ![Dashboard 1](outputs/dashboard_screenshots/dashboard1.png)
 ![Dashboard 2](outputs/dashboard_screenshots/dashboard2.png)
-```
+
 
 ## Project Structure
 ```text
@@ -198,7 +199,7 @@ product_analytics_cohort/
 ├── dataset_options.md
 ├── project_plan.md
 └── README.md
-
+```
 
 ## How to Run
 1. Open the project in VS Code.
