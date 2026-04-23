@@ -1,0 +1,4 @@
+funnel_stage,event_count,conversion_from_previous_stage,conversion_from_view
+view,793099,1.0,1.0
+cart,54032,0.0681,0.0681
+purchase,37343,0.6911,0.0471

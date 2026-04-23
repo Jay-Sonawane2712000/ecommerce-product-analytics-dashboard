@@ -1,0 +1,12 @@
+metric_name,metric_value
+total_events,884474
+unique_users,407283
+unique_sessions,490399
+total_views,793099
+total_carts,54032
+total_purchases,37343
+view_to_cart_rate,0.0681
+cart_to_purchase_rate,0.6911
+view_to_purchase_rate,0.0471
+date_range_start,2020-09-24 11:57:06
+date_range_end,2021-02-28 23:59:09
