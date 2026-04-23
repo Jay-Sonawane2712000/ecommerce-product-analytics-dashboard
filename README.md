@@ -198,7 +198,7 @@ product_analytics_cohort/
 ├── dataset_options.md
 ├── project_plan.md
 └── README.md
-
+```
 
 ## How to Run
 1. Open the project in VS Code.
