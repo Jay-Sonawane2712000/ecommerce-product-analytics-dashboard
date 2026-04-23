@@ -159,10 +159,6 @@ Includes:
 
 Example:
 
-<<<<<<< HEAD
-=======
-
->>>>>>> d0e9f6b7cddd8717117a1d43e52a8a5e52f59ee7
 ![Dashboard 1](outputs/dashboard_screenshots/dashboard1.png)
 ![Dashboard 2](outputs/dashboard_screenshots/dashboard2.png)
 
