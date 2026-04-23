@@ -157,10 +157,10 @@ Includes:
 
 Example:
 
-```md
+
 ![Dashboard 1](outputs/dashboard_screenshots/dashboard1.png)
 ![Dashboard 2](outputs/dashboard_screenshots/dashboard2.png)
-```
+
 
 ## Project Structure
 ```text
