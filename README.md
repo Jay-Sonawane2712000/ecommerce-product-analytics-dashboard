@@ -1,7 +1,7 @@
 # Product Analytics Dashboard with Cohort Analysis
 
 ## Project Overview
-This project analyzes user behavior in an electronics eCommerce dataset to understand conversion performance and retention patterns. The goal was to build a practical, business-focused product analytics case study that goes beyond simple data cleaning or plotting.
+This project analyzes user behavior in an electronics e-commerce dataset to understand conversion performance and retention patterns. The goal was to build a practical, business-focused product analytics case study that goes beyond simple data cleaning or plotting.
 
 The project answers questions such as:
 - Where is the biggest drop-off in the funnel?
