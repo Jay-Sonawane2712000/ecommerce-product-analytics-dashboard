@@ -155,7 +155,7 @@ Includes:
 - monthly cohort retention heatmap
 - retention insights summary
 
-> Add your Tableau screenshots here after exporting them.
+The exported Tableau dashboard screenshots are included below.
 
 Example:
 
