@@ -233,7 +233,7 @@ Possible next steps for this project:
 - add session-level funnel analysis
 - apply minimum-volume thresholds more systematically for category and brand comparisons
 - compare retention by acquisition segment or category
-- create a public Tableau portfolio page
+- publish a public Tableau portfolio page
 - extend the project with experimentation or A/B testing analysis
 
 ## Author
