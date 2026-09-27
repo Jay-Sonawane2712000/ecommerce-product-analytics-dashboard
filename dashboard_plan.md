@@ -90,6 +90,7 @@ Best fields to show:
 Display suggestion:
 - Format rate metrics as percentages
 - Format counts with commas
+- Keep each conversion rate's denominator visible in the tooltip or supporting text
 
 ### 2. Overall Funnel Chart
 
