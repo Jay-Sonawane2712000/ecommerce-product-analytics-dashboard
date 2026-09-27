@@ -123,6 +123,8 @@ Two Tableau dashboards were built:
 - Cart-to-purchase conversion: **69.11%**
 - View-to-purchase conversion: **4.71%**
 
+These funnel rates use event counts as their denominators; they are not unique-user or session conversion rates.
+
 **Main insight:**  
 The biggest drop-off happens between **view** and **cart**, while users who reach the cart stage convert at a relatively strong rate.
 
